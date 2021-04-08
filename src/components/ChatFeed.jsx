@@ -2,10 +2,14 @@
 // import TheirMessage from './TheirMessage';
 // import MessageForm from './MessageForm';
 
-const ChatFeed = (props) => {
-  const { chats, activeChat, userName, messages } = props;
+const ChatFeed = () => {
 
-  
+  return (
+      <div>
+            ChatFeed
+      </div>
+
+  );
 };
 
 export default ChatFeed;
